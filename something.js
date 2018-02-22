@@ -1,3 +1,4 @@
+//Added a new JavaScript file and got ready for the next project.
 var places = []; // new array to store entered places
 var i = 1; // counter variable to track array indexes
 
